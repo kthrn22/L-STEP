@@ -170,6 +170,9 @@ if __name__ == "__main__":
             positional_encoding = torch.tensor([])
             
             model.train()
+
+            model[0].set_neighbor_sampler(train_neighbor_sampler)
+
             torch.autograd.set_detect_anomaly(True)
             # store train losses and metrics
             train_losses, train_metrics = [], []

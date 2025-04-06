@@ -1,1 +1,1 @@
-Processed data, ready for model training.
+Processed datasets, ready for model training, are saved in this directory.

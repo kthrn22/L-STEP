@@ -1,4 +1,4 @@
-# L-STEP
+# Learnable Spatial-Temporal Positional Encoding for Link Prediction (L-STEP)
 
 ## Data Preprocessing
 

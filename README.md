@@ -1,6 +1,6 @@
 # Learnable Spatial-Temporal Positional Encoding for Link Prediction (L-STEP)
 
-This repository is the official implementation of the paper Learnable Spatial-Temporal Positional Encoding for Link Prediction (ICML 2025) by Katherine Tieu*, Dongqi Fu*, Zihao Li, Ross Maciejewski, and Jingrui He.
+This repository is the official implementation of the paper [Learnable Spatial-Temporal Positional Encoding for Link Prediction](https://www.arxiv.org/pdf/2506.08309) (ICML 2025) by Katherine Tieu*, Dongqi Fu*, Zihao Li, Ross Maciejewski, and Jingrui He.
 
 ## Data Preprocessing
 
